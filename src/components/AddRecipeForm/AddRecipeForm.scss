@@ -1,0 +1,18 @@
+.formWrapper {
+    & > div {
+        margin-bottom: 35px;
+    }
+
+    .fileBox {
+        display: flex;
+
+        input[type='file'] {
+            display: none;
+        }
+    
+        img {
+            height: 82px;
+            margin-left: 10px;
+        }
+    }
+}

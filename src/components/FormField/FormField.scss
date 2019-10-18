@@ -1,0 +1,11 @@
+.formWrapper {
+    .inputBlock {
+        position: relative;
+        span {
+            position: absolute;
+            bottom: -25px;
+            left: 0;
+            color: #ff0000;
+        }
+    }
+}

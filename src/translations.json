@@ -1,0 +1,26 @@
+{
+    "menu": {
+        "title": ["Przepisy", "Recipes"],
+        "addRecipe": ["Dodaj przepis", "Add recipe"]
+    },
+    "flag": {
+        "pl": ["pl", "pl"],
+        "en": ["en", "en"]
+    },
+    "mainPage": {
+        "title": ["Najlepsze przepisy na świecie", "The best recipes on the world"],
+        "showMore": ["Pokaż więcej", "Show more"]
+    },
+    "addRecipe": {
+        "title": ["Dodaj nowy przepis", "Add new recipe"],
+        "submit": ["Dodaj przepis", "Add recipe"],
+        "titleField": ["Tytuł", "title"],
+        "recipeField": ["Przepis", "Recipe"],
+        "chooseFile": ["Wybierz plik...", "Choose a file..."]
+    },
+    "validators": {
+        "required": ["To pole jest wymagane", "This field is required"],
+        "maxTitleValue": ["Maksymalnie 255 znaków", "Max: 255 chars"],
+        "maxRecipeValue": ["Maksymalnie 5000 znaków", "Max: 5000 chars"]
+    }
+}
